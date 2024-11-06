@@ -1,4 +1,4 @@
-# Phase 5 in the bgoinning
+# Phase 5 in the beginning
 ```javascript
 console.log("hello world")
 ```
